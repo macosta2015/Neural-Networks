@@ -32,6 +32,7 @@ The good thing about the models is that now that they are trained, it is possibl
 <img width="721" alt="Screen Shot 2021-11-10 at 4 09 22 PM" src="https://user-images.githubusercontent.com/25726054/141201755-9f0d3627-f093-44f4-8f5b-fc99a797f0a4.png">
 
 ### Ending 
-At the end, task 3, they are asking us to train a model and get above 75% accuracy. The goal is to test diffent models, with more neurons or more layers and look at the output. 
+At the end, task 3, they are asking us to train a model and get above 75% accuracy. The goal is to test different models, with more neurons or more layers and look at the output. 
+##### The higher the accuracy, the better the model. 
 
 
