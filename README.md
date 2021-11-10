@@ -25,8 +25,9 @@ At the end it will be possible to see the model and its accuracy.
 The good thing about the models is that now that they are trained, it is possible to save them for later use. This is really handy as we are able to provode/send the model to someone else. That person does not need to create his own model anynore. 
 <img width="590" alt="Screen Shot 2021-11-10 at 4 09 05 PM" src="https://user-images.githubusercontent.com/25726054/141201700-f1be8677-f57d-4786-b26a-abba1d3687ab.png">
 
+<img width="721" alt="Screen Shot 2021-11-10 at 4 09 22 PM" src="https://user-images.githubusercontent.com/25726054/141201755-9f0d3627-f093-44f4-8f5b-fc99a797f0a4.png">
 
 ### Ending 
 At the end, task 3, they are asking us to train a model and get above 75% accuracy. The goal is to test diffent models, with more neurons or more layers and look at the output. 
-<img width="721" alt="Screen Shot 2021-11-10 at 4 09 22 PM" src="https://user-images.githubusercontent.com/25726054/141201755-9f0d3627-f093-44f4-8f5b-fc99a797f0a4.png">
+
 
