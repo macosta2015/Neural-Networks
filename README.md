@@ -15,7 +15,7 @@ We first drop some columns that we believe aren't relevant.
 We then are going to separate the rare categorical values that we have. As well as for features and target analysis. 
 
 
-### We now need to compile, Train, and Evaluate the model. They key here is to have different models in order to see which one is the most accurate one. The ideal case is that With different models we will be able to keep the most accurate one. 
+### We now need to compile, Train, and Evaluate the model. They key here is to have different models in order to see which one is the most accurate one. The ideal case is that with different models we will be able to keep the most accurate one. 
 Neural networks works with layers that have activation functions.
 <img width="740" alt="Screen Shot 2021-11-10 at 4 12 05 PM" src="https://user-images.githubusercontent.com/25726054/141202128-08c30208-8583-47f2-9999-b3d2b14be60b.png">
 
