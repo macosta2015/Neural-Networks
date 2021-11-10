@@ -9,6 +9,7 @@ The important part here is to first look at the data (csv) and see how the infor
 
 
 We first drop some columns that we believe aren't relevant. 
+<img width="739" alt="Screen Shot 2021-11-10 at 4 12 58 PM" src="https://user-images.githubusercontent.com/25726054/141202224-d3741821-b5fa-4d13-ab66-5a1b9361cb27.png">
 
 
 We then are going to separate the rare categorical values that we have. As well as for features and target analysis. 
